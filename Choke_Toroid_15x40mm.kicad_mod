@@ -35,4 +35,9 @@
   )
   (pad 1 thru_hole circle (at -24.13 0) (size 7.5 7.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 24.13 0) (size 7.5 7.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (model inductor/Toroid_15x40mm_Horizontal.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 4 4 4))
+    (rotate (xyz 0 0 0))
+  )
 )
