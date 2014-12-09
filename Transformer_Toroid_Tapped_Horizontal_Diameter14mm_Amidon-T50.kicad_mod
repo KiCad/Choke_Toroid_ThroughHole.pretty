@@ -1,12 +1,12 @@
-(module Transformer_Toroid_Tapped_Horizontal_Diameter14mm_Amidon-T50_RevA_05Aug2010 (layer F.Cu)
+(module Transformer_Toroid_Tapped_Horizontal_Diameter14mm_Amidon-T50 (layer F.Cu)
   (at 0 0)
   (descr "Transformer, Toroid, tapped, horizontal, laying, Diameter 14mm, Amidon T50,")
   (tags "Transformer, Toroid, tapped, horizontal, laying, Diameter 14mm, Amidon T50,")
-  (fp_text reference Tr (at 0 0) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Transformer_Toroid_Tapped_Horizontal_Diameter14mm_Amidon-T50 (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Transformer_Toroid_Tapped_Horizontal_Diameter14mm_Amidon-T50_RevA_05Aug2010 (at 0 13.97) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 13.97) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.4008 3.8989) (end -2.99974 1.89992) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.99974 1.89992) (end -5.10032 5.40004) (layer F.SilkS) (width 0.15))
