@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Toroid, Coil, Choke,  6,5mm x 13mm, Vertical, Inductor, Drossel, Thruhole,")
   (tags "Toroid, Coil, Choke,  6,5mm x 13mm, Vertical, Inductor, Drossel, Thruhole,")
-  (fp_text reference Choke_Toroid_8x16mm_Vertical (at 16.51 -10.16) (layer F.SilkS)
+  (fp_text reference REF** (at 16.51 -10.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 10.16 3.81) (layer F.SilkS) hide
+  (fp_text value Choke_Toroid_8x16mm_Vertical (at 10.16 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 16.002 0) (end 9.144 0) (layer F.SilkS) (width 0.15))

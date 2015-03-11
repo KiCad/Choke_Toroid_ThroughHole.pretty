@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Choke, Inductance, Toroid, horizontal, laying, Diameter 4,5mm, Amidon, T16,")
   (tags "Choke, Inductance, Toroid, horizontal, laying, Diameter 4,5mm, Amidon, T160,")
-  (fp_text reference Choke_Toroid_horizontal_Diameter4-5mm_Amidon-T16 (at 0 -3.81) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 1.27 3.81) (layer F.SilkS) hide
+  (fp_text value Choke_Toroid_horizontal_Diameter4-5mm_Amidon-T16 (at 1.27 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.00076 0) (end 2.19964 0) (layer F.SilkS) (width 0.15))
