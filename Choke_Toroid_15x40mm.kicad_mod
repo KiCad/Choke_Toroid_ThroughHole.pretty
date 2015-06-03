@@ -1,10 +1,10 @@
 (module Choke_Toroid_15x40mm (layer F.Cu) (tedit 53F6D870)
   (descr "Choke, Inductance, Toroid, horizontal, laying, Diameter 40mm, T15")
   (tags "Choke, Inductance, Toroid, horizontal, laying, Diameter 40mm, T15")
-  (fp_text reference Choke_Toroid_15x40mm (at 0 0) (layer F.SilkS)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 21.59) (layer F.SilkS) hide
+  (fp_text value Choke_Toroid_15x40mm (at 0 21.59) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -12.7 0) (end -20.32 0) (layer F.SilkS) (width 0.15))
@@ -35,7 +35,7 @@
   )
   (pad 1 thru_hole circle (at -24.13 0) (size 7.5 7.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 24.13 0) (size 7.5 7.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model Choke_Toroid_ThroughHole/Choke_Toroid_15x40mm.wrl
+  (model Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_15x40mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))
